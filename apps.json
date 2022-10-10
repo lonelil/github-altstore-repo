@@ -34,5 +34,11 @@
     "github_repo": "devicarus/enmity-custom-icons",
     "bundleIdentifier": "com.hammerandchisel.discord",
     "iconURL": "https://files.enmity.app/icon-altstore.png"
+  },
+  {
+    "name": "Streamer",
+    "github_repo": "StreamerApp/Streamer",
+    "bundleIdentifier": "com.mo.streamer.ios",
+    "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4"
   }
 ]
