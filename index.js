@@ -39,7 +39,7 @@ apps.forEach((app) => {
 
       fse.outputFileSync(
         `./apps/${app.github_repo}.json`,
-        JSON.stringify(done)
+        JSON.stringify(done, null, 2)
       );
     });
 });
