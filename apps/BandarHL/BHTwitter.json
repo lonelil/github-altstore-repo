@@ -1,1 +1,104 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/3.1/Twitter_9.27_BHTwitter_3.1.ipa","name":"BHTwitter 3.1 (Twitter_9.27_BHTwitter_3.1.ipa)","version":"3.1","versionDate":"2022-09-10T21:05:40Z","versionDescription":"What's new with the 3.1 version:\r\n- Fix Ads tweet issues\r\n- Block Ads in the trending page","size":151421624,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/3.1/Twitter_9.27_BHTwitter_3.1.TrollStore.ipa","name":"BHTwitter 3.1 (Twitter_9.27_BHTwitter_3.1.TrollStore.ipa)","version":"3.1","versionDate":"2022-09-10T21:05:40Z","versionDescription":"What's new with the 3.1 version:\r\n- Fix Ads tweet issues\r\n- Block Ads in the trending page","size":149975135,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/3.0/Twitter_9.26_BHTwitter_3.0.ipa","name":"BHTwitter 3.0 (Twitter_9.26_BHTwitter_3.0.ipa)","version":"3.0","versionDate":"2022-08-23T15:13:53Z","versionDescription":"What's new with the 3.0 version:\r\n- Add Hide Who to follow section\r\n- Add Hide Topics to follow section\r\n- Add Localization to the Tweak (Arabic, Japanese, Russian, Indonesian, zh-Hant)\r\n- Fix random crashes \r\n- Fix the location of Copy profile button when enabling Disable RTL option\r\n\r\n---\r\n**[IPA version contains Open Twitter Safari extension](https://github.com/BandarHL/OpenTwitterSafariExtension)**\r\n<img src=\"https://user-images.githubusercontent.com/31299470/186194865-ff9b21a6-ba5c-4bbd-8aa2-7b6be6178404.jpeg\" alt=\"drawing\" width=\"200\"/>\r\n","size":349854182,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/3.0/Twitter_9.26_BHTwitter_3.0.TrollStore.ipa","name":"BHTwitter 3.0 (Twitter_9.26_BHTwitter_3.0.TrollStore.ipa)","version":"3.0","versionDate":"2022-08-23T15:13:53Z","versionDescription":"What's new with the 3.0 version:\r\n- Add Hide Who to follow section\r\n- Add Hide Topics to follow section\r\n- Add Localization to the Tweak (Arabic, Japanese, Russian, Indonesian, zh-Hant)\r\n- Fix random crashes \r\n- Fix the location of Copy profile button when enabling Disable RTL option\r\n\r\n---\r\n**[IPA version contains Open Twitter Safari extension](https://github.com/BandarHL/OpenTwitterSafariExtension)**\r\n<img src=\"https://user-images.githubusercontent.com/31299470/186194865-ff9b21a6-ba5c-4bbd-8aa2-7b6be6178404.jpeg\" alt=\"drawing\" width=\"200\"/>\r\n","size":149006398,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/2.9.9/Twitter_9.20_BHTwitter_2.9.9.ipa","name":"BHTwitter 2.9.9 (Twitter_9.20_BHTwitter_2.9.9.ipa)","version":"2.9.9","versionDate":"2022-08-02T22:11:27Z","versionDescription":"What's new with the 2.9.9 version:\r\n- Add Status Tweet (vibe)\r\n- Fix bugs and performance improvement","size":300545115,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/2.9.8/Twitter_9.20_BHTwitter_2.9.8.ipa","name":"BHTwitter 2.9.8 (Twitter_9.20_BHTwitter_2.9.8.ipa)","version":"2.9.8","versionDate":"2022-07-27T23:04:17Z","versionDescription":"What's new with the 2.9.8 version:\r\n- Always open in Safari is back!\r\n- Add CoTweet\r\n- Fix crash in Twitter settings\r\n- Remove reply later (because Twitter delete it)\r\n- Remove voice in reply (because it's useless)\r\n- Add copy location\r\n- Rebuild Settings with Preferences and Cephei framework","size":161501645,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/2.9.7/Twitter_9.15.2_BHTwitter_2.9.7.ipa","name":"BHTwitter 2.9.7 (Twitter_9.15.2_BHTwitter_2.9.7.ipa)","version":"2.9.7","versionDate":"2022-07-05T14:23:51Z","versionDescription":"### What's new with the 2.9.7 version:\r\n- Add new feature: Theme like Twitter blue\r\n- Add a new feature: Hide spaces bar\r\n- Add a new feature: Disable RTL\r\n- Fix RTL issue with Save tweet as an image\r\n- Fix the colour issue with Save tweet as an image\r\n- Fix voice in DM feature\r\n- Fix issues with the Font feature\r\n- Fix Auto Highest Load feature","size":110188234,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"},{"beta":false,"bundleIdentifier":"com.atebits.Tweetie2","developerName":"BandarHL","downloadURL":"https://github.com/BandarHL/BHTwitter/releases/download/2.9.6/Twitter_9.14_BHTwitter_2.9.6.ipa","name":"BHTwitter 2.9.6 (Twitter_9.14_BHTwitter_2.9.6.ipa)","version":"2.9.6","versionDate":"2022-06-25T16:15:31Z","versionDescription":"### What's new with the 2.9.6 version:\r\n- New feature: Save tweets as images.\r\n- Fix Padlock feature issues.\r\n- Fix Tweet confirm option.","size":106622520,"iconURL":"https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"}],"identifier":"com.lonelil.github-altstore-repo.BandarHL/BHTwitter","name":"BHTwitter","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.1/Twitter_9.27_BHTwitter_3.1.ipa",
+      "name": "BHTwitter 3.1 (Twitter_9.27_BHTwitter_3.1.ipa)",
+      "version": "3.1",
+      "versionDate": "2022-09-10T21:05:40Z",
+      "versionDescription": "What's new with the 3.1 version:\r\n- Fix Ads tweet issues\r\n- Block Ads in the trending page",
+      "size": 151421624,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.1/Twitter_9.27_BHTwitter_3.1.TrollStore.ipa",
+      "name": "BHTwitter 3.1 (Twitter_9.27_BHTwitter_3.1.TrollStore.ipa)",
+      "version": "3.1",
+      "versionDate": "2022-09-10T21:05:40Z",
+      "versionDescription": "What's new with the 3.1 version:\r\n- Fix Ads tweet issues\r\n- Block Ads in the trending page",
+      "size": 149975135,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.0/Twitter_9.26_BHTwitter_3.0.ipa",
+      "name": "BHTwitter 3.0 (Twitter_9.26_BHTwitter_3.0.ipa)",
+      "version": "3.0",
+      "versionDate": "2022-08-23T15:13:53Z",
+      "versionDescription": "What's new with the 3.0 version:\r\n- Add Hide Who to follow section\r\n- Add Hide Topics to follow section\r\n- Add Localization to the Tweak (Arabic, Japanese, Russian, Indonesian, zh-Hant)\r\n- Fix random crashes \r\n- Fix the location of Copy profile button when enabling Disable RTL option\r\n\r\n---\r\n**[IPA version contains Open Twitter Safari extension](https://github.com/BandarHL/OpenTwitterSafariExtension)**\r\n<img src=\"https://user-images.githubusercontent.com/31299470/186194865-ff9b21a6-ba5c-4bbd-8aa2-7b6be6178404.jpeg\" alt=\"drawing\" width=\"200\"/>\r\n",
+      "size": 349854182,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.0/Twitter_9.26_BHTwitter_3.0.TrollStore.ipa",
+      "name": "BHTwitter 3.0 (Twitter_9.26_BHTwitter_3.0.TrollStore.ipa)",
+      "version": "3.0",
+      "versionDate": "2022-08-23T15:13:53Z",
+      "versionDescription": "What's new with the 3.0 version:\r\n- Add Hide Who to follow section\r\n- Add Hide Topics to follow section\r\n- Add Localization to the Tweak (Arabic, Japanese, Russian, Indonesian, zh-Hant)\r\n- Fix random crashes \r\n- Fix the location of Copy profile button when enabling Disable RTL option\r\n\r\n---\r\n**[IPA version contains Open Twitter Safari extension](https://github.com/BandarHL/OpenTwitterSafariExtension)**\r\n<img src=\"https://user-images.githubusercontent.com/31299470/186194865-ff9b21a6-ba5c-4bbd-8aa2-7b6be6178404.jpeg\" alt=\"drawing\" width=\"200\"/>\r\n",
+      "size": 149006398,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/2.9.9/Twitter_9.20_BHTwitter_2.9.9.ipa",
+      "name": "BHTwitter 2.9.9 (Twitter_9.20_BHTwitter_2.9.9.ipa)",
+      "version": "2.9.9",
+      "versionDate": "2022-08-02T22:11:27Z",
+      "versionDescription": "What's new with the 2.9.9 version:\r\n- Add Status Tweet (vibe)\r\n- Fix bugs and performance improvement",
+      "size": 300545115,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/2.9.8/Twitter_9.20_BHTwitter_2.9.8.ipa",
+      "name": "BHTwitter 2.9.8 (Twitter_9.20_BHTwitter_2.9.8.ipa)",
+      "version": "2.9.8",
+      "versionDate": "2022-07-27T23:04:17Z",
+      "versionDescription": "What's new with the 2.9.8 version:\r\n- Always open in Safari is back!\r\n- Add CoTweet\r\n- Fix crash in Twitter settings\r\n- Remove reply later (because Twitter delete it)\r\n- Remove voice in reply (because it's useless)\r\n- Add copy location\r\n- Rebuild Settings with Preferences and Cephei framework",
+      "size": 161501645,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/2.9.7/Twitter_9.15.2_BHTwitter_2.9.7.ipa",
+      "name": "BHTwitter 2.9.7 (Twitter_9.15.2_BHTwitter_2.9.7.ipa)",
+      "version": "2.9.7",
+      "versionDate": "2022-07-05T14:23:51Z",
+      "versionDescription": "### What's new with the 2.9.7 version:\r\n- Add new feature: Theme like Twitter blue\r\n- Add a new feature: Hide spaces bar\r\n- Add a new feature: Disable RTL\r\n- Fix RTL issue with Save tweet as an image\r\n- Fix the colour issue with Save tweet as an image\r\n- Fix voice in DM feature\r\n- Fix issues with the Font feature\r\n- Fix Auto Highest Load feature",
+      "size": 110188234,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/2.9.6/Twitter_9.14_BHTwitter_2.9.6.ipa",
+      "name": "BHTwitter 2.9.6 (Twitter_9.14_BHTwitter_2.9.6.ipa)",
+      "version": "2.9.6",
+      "versionDate": "2022-06-25T16:15:31Z",
+      "versionDescription": "### What's new with the 2.9.6 version:\r\n- New feature: Save tweets as images.\r\n- Fix Padlock feature issues.\r\n- Fix Tweet confirm option.",
+      "size": 106622520,
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+    }
+  ],
+  "identifier": "com.lonelil.github-altstore-repo.BandarHL/BHTwitter",
+  "name": "BHTwitter",
+  "news": [],
+  "userInfo": {}
+}
