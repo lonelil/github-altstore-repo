@@ -28,7 +28,9 @@ apps.forEach((app) => {
               developerName: release.author.login,
               downloadURL: asset.browser_download_url,
               name: `${release.name} (${asset.name})`,
-              version: release.tag_name.replace("v", ""),
+              version: release.tag_name
+                .replace("v", "")
+                .replaceAll(/[^0-9.]/gm, "."),
               versionDate: release.published_at,
               versionDescription: release.body,
               size: asset.size,
