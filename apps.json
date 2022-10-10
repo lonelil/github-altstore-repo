@@ -4,5 +4,29 @@
     "github_repo": "enmity-mod/tweak",
     "bundleIdentifier": "com.hammerandchisel.discord",
     "iconURL": "https://files.enmity.app/icon-altstore.png"
+  },
+  {
+    "name": "uYou+",
+    "github_repo": "qnblackcat/uYouPlus",
+    "bundleIdentifier": "com.google.ios.youtube",
+    "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png"
+  },
+  {
+    "name": "uYou+",
+    "github_repo": "qnblackcat/uYouPlus",
+    "bundleIdentifier": "com.google.ios.youtube",
+    "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png"
+  },
+  {
+    "name": "Cercube+",
+    "github_repo": "qnblackcat/CercubePlus",
+    "bundleIdentifier": "com.google.ios.youtubecercube",
+    "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png"
+  },
+  {
+    "name": "BHTwitter",
+    "github_repo": "BandarHL/BHTwitter",
+    "bundleIdentifier": "com.atebits.Tweetie2",
+    "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
   }
 ]
