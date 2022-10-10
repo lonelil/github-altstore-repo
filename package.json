@@ -1,0 +1,24 @@
+{
+  "name": "github-altstore-repo",
+  "version": "1.0.0",
+  "description": "altstore repo for github projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonelil/github-altstore-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonelil/github-altstore-repo/issues"
+  },
+  "homepage": "https://github.com/lonelil/github-altstore-repo#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}
