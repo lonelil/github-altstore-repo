@@ -28,5 +28,11 @@
     "github_repo": "BandarHL/BHTwitter",
     "bundleIdentifier": "com.atebits.Tweetie2",
     "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png"
+  },
+  {
+    "name": "Enmity Custom Icons",
+    "github_repo": "devicarus/enmity-custom-icons",
+    "bundleIdentifier": "com.hammerandchisel.discord",
+    "iconURL": "https://files.enmity.app/icon-altstore.png"
   }
 ]
